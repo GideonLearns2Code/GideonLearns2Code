@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elijah Gideon Yanto also known as 3go</h1>
+<h1 align="center">Hi 👋, I'm Elijah Gideon Yanto also known as g1deon-dev</h1>
 <h3 align="center">A student at Bicol University and an aspiring full-stack developer</h3>
 
 - 🌱 I’m currently learning **Python, C, HTML, CSS, JavaScript, C++, Java**
